@@ -16,4 +16,4 @@ https://wiki.fysik.dtu.dk/ase/
 ## Examples
 
 - example.py shows an example of the inversion procedure, it makes use of the configurations in the Dataset directory.
-- pbc.py small script to wrap the atoms into the unit cell.
+- pbc.py small script to wrap the atoms into the unit cell for visualization purposes.
