@@ -9,7 +9,7 @@ This library makes use of ASE for the manipulation of the chemical structures, L
 
 https://www.lammps.org/
 
-https://dask.org/
+https://dask.org/ (version 2021.10.0 or newer)
 
 https://wiki.fysik.dtu.dk/ase/
 
