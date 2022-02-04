@@ -6,6 +6,7 @@ Example of an inversion
 @author: matteo
 """
 import numpy as np
+import os
 import matplotlib.pyplot as plt 
 from ase.io import write
 
@@ -41,6 +42,10 @@ if __name__ == '__main__':
                                                      n_workers=N_workers
                                                      )
     
+    try:
+        os.system('mkdir ./out_data')
+    except:
+        pass  
     
     for n in range(len(inverted)):
         if n==0:            
