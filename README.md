@@ -1,7 +1,10 @@
 # Inversion of the chemical environment representations
 Implementation of the algorithm for the inversion of the local chemical environments descriptors.
 
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035402
 https://arxiv.org/abs/2201.11591
+
+For any queries, please contact me at mcobelli@tcd.ie
 
 ## Dependencies
 
