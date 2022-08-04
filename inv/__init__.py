@@ -1,5 +1,3 @@
-__all__ = ['Dataset']
+__all__ = ["Dataset"]
 
 from inv.dataset import Dataset
-
-
