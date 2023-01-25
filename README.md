@@ -1,9 +1,9 @@
-# Inversion of the chemical environment representations
+# Local inversion of the chemical environment representations
 Implementation of the algorithm for the inversion of the local chemical environments descriptors.
 
-https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035402
-
-https://arxiv.org/abs/2201.11591
+> https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035402
+> 
+> https://arxiv.org/abs/2201.11591
 
 For any queries, please contact me at mcobelli@tcd.ie
 
@@ -11,11 +11,11 @@ For any queries, please contact me at mcobelli@tcd.ie
 
 This library makes use of ASE for the manipulation of the chemical structures, LAMMPS for the computation of the bispectrum components and of Dask to run in parallel:
 
-https://www.lammps.org/
-
-https://dask.org/ (version 2021.10.0 or newer)
-
-https://wiki.fysik.dtu.dk/ase/
+> https://www.lammps.org/
+> 
+> https://dask.org/ (version 2021.10.0 or newer)
+> 
+> https://wiki.fysik.dtu.dk/ase/
 
 ## Examples
 
