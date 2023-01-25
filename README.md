@@ -1,5 +1,5 @@
 # Local inversion of the chemical environment representations
-Implementation of the algorithm for the inversion of the local chemical environments descriptors.
+Implementation of the algorithm for the inversion of the local chemical environments descriptors:
 
 | <img src="./inversion_scheme.png" width=700 > |
 |:--:|
